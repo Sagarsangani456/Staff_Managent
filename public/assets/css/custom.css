@@ -1,0 +1,231 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ *
+ */
+
+/*# sourceMappingURL=custom.css.map */
+
+.fa-ellipsis-vertical {
+    font-size: 25px;
+}
+
+.media {
+
+    background-color: #f4f6fb;
+    padding: 25px;
+    position: relative;
+    border-radius: 5px;
+    margin-block-end: 20px;
+}
+
+.text {
+    color: #8392a5 !important;
+}
+
+.fw {
+    font-weight: bolder !important;
+}
+
+.fa-download {
+    font-size: 25px;
+    /*margin-left:20px;*/
+}
+
+.badge {
+    background-color: rgba(1, 163, 255, .1);
+    border-radius: 5px !important;
+    font-weight: 900 !important;
+    font-size: 13px !important;
+    width: 100%;
+}
+
+.badge:hover {
+    background-color: #0da8ee;
+    color: white;
+    cursor: pointer;
+}
+
+.fs {
+    font-size: 20px;
+}
+
+.msg {
+    font-size: x-large;
+    color: #0a001f;
+}
+
+.comment {
+    font-weight: bolder;
+    margin-left: 10px;
+}
+
+.comment_msg {
+    padding-left: 90px;
+
+}
+
+.comment_name {
+    color: #0a001f;
+}
+
+.attchment {
+    font-size: 15px;
+    color: gray;
+}
+
+.user_profile {
+    margin-left: 110px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+.latest {
+    font-size: x-large !important;
+    color: black !important;
+}
+
+.main-footer {
+    background-color: #fff;
+}
+
+.comment-time {
+    float: right;
+    font-size: 15px;
+    color: #8392a5;
+    margin-right: 50px;
+}
+
+.livetime {
+    margin-right: 30px;
+    padding: 7px 15px;
+    background-color: white;
+    box-shadow: 0 0 5px 2px rgba(5, 23, 34, .05);
+    color: #8392a5;
+    font-weight: bolder;
+}
+
+.livedate {
+    margin-right: 30px;
+    background-color: white;
+    padding: 7px 15px;
+    box-shadow: 0 0 5px 2px rgba(5, 23, 34, .05);
+    color: #8392a5;
+    font-weight: bolder;
+}
+#loading
+{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #FFFFFF url("https://media.tenor.com/AN1ll0-4gZMAAAAC/loading.gif") no-repeat center;
+    z-index: 99999;
+}
+
+.pricing-card {
+    border: none;
+    border-radius: 15px !important;
+    margin-bottom: 40px;
+    text-align: center;
+    -webkit-transition: all 0.6s;
+    transition: all 0.6s;
+}
+.pricing-card .card-body {
+    padding-top: 55px;
+    padding-bottom: 62px;
+}
+.pricing-plan-title {
+    font-size: 20px;
+    color: #B4B4B3;
+    margin-bottom: 11px;
+    font-weight: 900 !important;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.pricing-plan-cost {
+    font-size: 30px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 29px;
+}
+.ml-auto, .mx-auto {
+    margin-left: auto!important;
+}
+.pricing-plan-features {
+    list-style: none;
+    padding-left: 0;
+    font-size: 20px;
+    line-height: 2.14;
+    margin-bottom: 35px;
+    color: #B4B4B3;
+    font-weight: bolder;
+
+}
+.pricing-card:hover {
+    box-shadow: 0 2px 40px 0 rgba(205, 205, 205, 0.55);
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+    cursor: pointer;
+}
+.my-4
+{
+    font-weight: 900;
+}
+.plan-detail
+{
+    display: inline-block;
+}
+.generate_btn
+{
+    background-color: #7D7C7C !important;
+    color: white !important;
+}
+.apply_coupon
+{
+    margin-left: 180px;
+    margin-top: 30px;
+}
+.fontsize
+{
+    font-size: 16px !important;
+}
+.sticky-top
+{
+    position: sticky !important;
+    top: 20px;
+    z-index: 1020;
+}
+.bg-light-secondary
+{
+    background-color: #e2e3e5;
+    color: #6c757d;
+    cursor: pointer;
+}
+.trsuh
+{
+    margin-left: 95%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

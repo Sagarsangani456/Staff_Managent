@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class SendRequest extends Model
+{
+    use HasFactory;
+    protected $table = 'plan_requests';
+    protected $fillable = ['plan_id','sender_id','accept-id'];
+}
